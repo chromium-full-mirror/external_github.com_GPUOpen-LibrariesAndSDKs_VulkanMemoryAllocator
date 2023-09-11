@@ -11,3 +11,4 @@ Easy to integrate Vulkan memory allocation library.
 
 Modifications:
 Added OWNERS, BUILD.gn, README.chromium and codereview.settings.
+Cherry-picked 2f382df
