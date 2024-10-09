@@ -1,5 +1,6 @@
 Name: VulkanMemoryAllocator
 URL: https://github.com/GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator
+Version: N/A
 Revision: 309fa0e613c6db0231df03d0d7ac0c166dbee1d1
 Security Critical: yes
 Shipped: yes
